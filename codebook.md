@@ -1,3 +1,7 @@
+---
+layout: default
+title: Codebook and Documentation
+---
 # Codebook and Documentation
 
 The codebook documents the structure of the Comprehensive Courts of Appeals Database (CCAD), including variable definitions, value codings, source crosswalks to the Songer and Supreme Court Databases, and validation procedures.

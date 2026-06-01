@@ -1,3 +1,7 @@
+---
+layout: default
+title: Data
+---
 # Data
 
 The Comprehensive Courts of Appeals Database (CCAD) will be made publicly available upon publication of the methods paper.

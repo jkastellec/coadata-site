@@ -1,3 +1,7 @@
+---
+layout: default
+title: Contributors
+---
 # Contributors
 
 **[Jonathan P. Kastellec](https://scholar.princeton.edu/kastellec)**

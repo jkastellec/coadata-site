@@ -1,3 +1,7 @@
+---
+layout: default
+title: Citation
+---
 # Citation
 
 Researchers using the Comprehensive Courts of Appeals Database (CCAD) should cite both the methods paper and the specific data release.
