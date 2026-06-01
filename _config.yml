@@ -1,0 +1,10 @@
+title: Comprehensive Courts of Appeals Database
+description: A machine-coded dataset of U.S. Courts of Appeals decisions, 1892–2025
+theme: jekyll-theme-minimal
+permalink: pretty
+
+header_pages:
+  - data.md
+  - codebook.md
+  - contributors.md
+  - citation.md
