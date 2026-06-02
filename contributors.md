@@ -10,7 +10,7 @@ title: Contributors
 
 <div class="contributor">
   <img class="headshot" src="/assets/images/eitan.jpeg" alt="Eitan Sapiro-Gheiler">
-  <p><a href="#">Eitan Sapiro-Gheiler</a> — <em>bio forthcoming</em>.</p>
+  <p><a href="EITAN_URL_HERE">Eitan Sapiro-Gheiler</a> is a postdoc at Princeton Politics, working on topics in political economy using tools from economic theory and natural language processing. His recent work focuses on combining theoretical and empirical models of decision-making on U.S. appellate courts. He received his PhD in economics from MIT in 2025 and his undergraduate degree from Princeton in 2019.</p>
 </div>
 
 <div class="contributor">
