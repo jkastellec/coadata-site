@@ -2,30 +2,35 @@
 ---
 @import "{{ site.theme }}";
 
-.homepage-image {
+figure.homepage-image {
   float: left;
   width: 45%;
   margin: 0.3em 1.5em 1em 0;
+  padding: 0;
+  border: none;
 
   img {
     width: 100%;
     height: auto;
     display: block;
+    margin: 0;
+  }
+
+  figcaption {
+    font-size: 0.8em;
+    font-style: italic;
+    color: #666;
+    line-height: 1.4;
+    margin: 0.5em 0 0 0;
+    padding: 0;
+    border: none;
+    width: 100%;
+    text-align: left;
   }
 }
 
-.image-attribution {
-  clear: both;
-  font-size: 0.85em;
-  font-style: italic;
-  color: #666;
-  margin-top: 2em;
-  padding-top: 1em;
-  border-top: 1px solid #eee;
-}
-
 @media (max-width: 700px) {
-  .homepage-image {
+  figure.homepage-image {
     float: none;
     width: 100%;
     margin: 0 0 1em 0;
