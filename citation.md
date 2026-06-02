@@ -8,6 +8,8 @@ title: Citation
   <figcaption>Photo: John Minor Wisdom U.S. Court of Appeals Building, New Orleans. Bobak Ha'Eri, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:053107-5thCircuit.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
 
+<div class="page-body" markdown="1">
+
 # Citation
 
 Researchers using the Comprehensive Courts of Appeals Database (CCAD) should cite both the methods paper and the specific data release.
@@ -39,3 +41,5 @@ Kastellec, Jonathan P., and Eitan Sapiro-Gheiler. *forthcoming*. "Comprehensive 
 ```
 
 *Citation entries will be finalized upon publication.*
+
+</div>

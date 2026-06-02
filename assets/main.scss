@@ -2,10 +2,15 @@
 ---
 @import "{{ site.theme }}";
 
+.page-content .wrapper {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+}
+
 figure.homepage-image {
-  float: left;
-  width: 45%;
-  margin: 0.3em 1.5em 1em 0;
+  flex: 0 0 45%;
+  margin: 0;
   padding: 0;
   border: none;
 
@@ -24,9 +29,13 @@ figure.homepage-image {
     margin: 0.5em 0 0 0;
     padding: 0;
     border: none;
-    width: 100%;
     text-align: left;
   }
+}
+
+.page-body {
+  flex: 1;
+  min-width: 0;
 }
 
 .contributor {
@@ -52,10 +61,12 @@ figure.homepage-image {
 }
 
 @media (max-width: 700px) {
+  .page-content .wrapper {
+    flex-direction: column;
+  }
+
   figure.homepage-image {
-    float: none;
-    width: 100%;
-    margin: 0 0 1em 0;
+    flex: 1 1 auto;
   }
 
   .contributor .headshot {

@@ -8,6 +8,8 @@ title: Data
   <figcaption>Photo: John Minor Wisdom U.S. Court of Appeals Building, New Orleans. Bobak Ha'Eri, <a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:053107-5thCircuit.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
 
+<div class="page-body" markdown="1">
+
 # Data
 
 The Comprehensive Courts of Appeals Database (CCAD) will be made publicly available upon publication of the methods paper.
@@ -30,3 +32,5 @@ The database covers all published opinions issued by the U.S. Courts of Appeals 
 The database will be updated on an annual basis to incorporate newly issued opinions. Version history will be maintained at the Dataverse deposit.
 
 *Data download links will appear here upon release.*
+
+</div>
