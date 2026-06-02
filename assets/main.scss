@@ -3,13 +3,14 @@
 @import "{{ site.theme }}";
 
 .page-content .wrapper {
+  max-width: 1200px;
   display: flex;
   gap: 2em;
   align-items: flex-start;
 }
 
 figure.homepage-image {
-  flex: 0 0 35%;
+  flex: 0 0 40%;
   margin: 0;
   padding: 0;
   border: none;
@@ -58,6 +59,29 @@ figure.homepage-image {
 
 .site-footer {
   display: none;
+}
+
+.site-header .wrapper {
+  max-width: 1200px;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-header .site-title {
+  margin-right: auto;
+}
+
+.site-header .site-nav {
+  float: none;
+  line-height: inherit;
+  position: static;
+
+  .page-link {
+    margin-left: 1.5em;
+  }
 }
 
 @media (max-width: 700px) {
