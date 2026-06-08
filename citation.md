@@ -33,7 +33,7 @@ Sapiro-Gheiler, Eitan, and Jonathan P. Kastellec. 2026. "Comprehensive Courts of
 ```bibtex
 @misc{sapiro-gheiler_kastellec_ccad,
   author    = {Sapiro-Gheiler, Eitan and Kastellec, Jonathan P.},
-  title     = {{Comprehensive Courts of Appeals Database (CCAD)}},
+  title     = {Comprehensive Courts of Appeals Database (CCAD)},
   year      = {2026},
   publisher = {Harvard Dataverse},
   version   = {V1},
