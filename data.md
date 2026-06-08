@@ -10,7 +10,7 @@ title: Data
 
 <div class="page-body" markdown="1">
 
-The Comprehensive Courts of Appeals Database (CCAD) is available on [Harvard Dataverse](https://doi.org/10.7910/DVN/XN2FVS).
+The Comprehensive Courts of Appeals Database (CCAD) is available on [Harvard Dataverse](https://doi.org/10.7910/DVN/XN2FVS). Individual files for download are below.
 
 ## Data Files
 
