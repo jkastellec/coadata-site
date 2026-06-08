@@ -26,7 +26,7 @@ The Comprehensive Courts of Appeals Database (CCAD) is available on [Harvard Dat
 
 ## Coverage
 
-The database covers all published opinions issued by the U.S. Courts of Appeals from 1892 through 2025. Variables include case identifiers, panel composition, litigant types, issue area, disposition, and ideological direction codings calibrated to the Songer and Supreme Court Databases.
+The database covers all published opinions issued by the U.S. Courts of Appeals from 1892 through 2025. Variables are drawn from two sources. Case metadata — including case identifiers, panel composition, and litigant types — are derived directly from CourtListener and other structured sources without LLM involvement. Substantive annotations — including issue area, disposition, and ideological direction codings — are calibrated to the conventions of the Songer U.S. Courts of Appeals Database and the Supreme Court Database (SCDB) and were produced using a large language model pipeline validated against both ground-truth datasets.
 
 ## Updates
 
