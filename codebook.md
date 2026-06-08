@@ -22,10 +22,4 @@ A detailed description of the construction methodology — including the large l
 
 **[Download Methods Paper (PDF)](#)**
 
-## Replication Materials
-
-Code and materials used to construct the database will be made available alongside the data release.
-
-*Codebook and paper links will be updated upon release.*
-
 </div>
