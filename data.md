@@ -10,18 +10,19 @@ title: Data
 
 <div class="page-body" markdown="1">
 
-# Data
+The Comprehensive Courts of Appeals Database (CCAD) is available on [Harvard Dataverse](https://doi.org/10.7910/DVN/XN2FVS).
 
-The Comprehensive Courts of Appeals Database (CCAD) will be made publicly available upon publication of the methods paper.
+## Data Files
 
-The dataset will be deposited at the [Harvard Dataverse](https://dataverse.harvard.edu/) and distributed in the following formats:
+- [Stata (.dta.gz)](https://dataverse.harvard.edu/api/access/datafile/13987844)
+- [CSV (.csv.gz)](https://dataverse.harvard.edu/api/access/datafile/13987843)
+- [Apache Parquet (.tar.gz)](https://dataverse.harvard.edu/api/access/datafile/13987074)
 
-- Stata (`.dta`)
-- R (`.rds`)
-- Comma-separated values (`.csv`)
-- Apache Parquet (`.parquet`)
+## Crosswalk Files
 
-Each release will be assigned a persistent digital object identifier (DOI). Users should cite the specific version used (see [Citation](#)).
+- [Songer crosswalk](https://dataverse.harvard.edu/api/access/datafile/13987072)
+- [IDB crosswalk](https://dataverse.harvard.edu/api/access/datafile/13987073)
+- [Stata variable rename map](https://dataverse.harvard.edu/api/access/datafile/13987076)
 
 ## Coverage
 
@@ -29,10 +30,6 @@ The database covers all published opinions issued by the U.S. Courts of Appeals 
 
 ## Updates
 
-The database will be updated on an annual basis to incorporate newly issued opinions. Version history will be maintained at the Dataverse deposit.
-
-**[Access the data on Harvard Dataverse](https://doi.org/10.7910/DVN/XN2FVS)**
-
-The Dataverse deposit includes files in Stata (`.dta.gz`), CSV (`.csv.gz`), and Apache Parquet (`.tar.gz`) formats, along with Songer and IDB crosswalk files and the codebook.
+The database will be updated on an annual basis to incorporate newly issued opinions. Version history will be maintained at the [Harvard Dataverse deposit](https://doi.org/10.7910/DVN/XN2FVS).
 
 </div>
