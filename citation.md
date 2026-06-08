@@ -22,7 +22,8 @@ Kastellec, Jonathan P., and Eitan Sapiro-Gheiler. 2026. "Appealing to Large-Lang
 @article{kastellec_sapirogheiler_ccad_methods,
   author = {Kastellec, Jonathan P. and Sapiro-Gheiler, Eitan},
   title = {Appealing to Large-Language-Model-as-Judge: A Comprehensive Machine-Coded Database for the U.S. Courts of Appeals},
-  year = {2026}
+  year = {2026},
+  note = {Princeton University working paper}
 }
 ```
 
