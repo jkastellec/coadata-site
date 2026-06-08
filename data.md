@@ -31,6 +31,8 @@ The database covers all published opinions issued by the U.S. Courts of Appeals 
 
 The database will be updated on an annual basis to incorporate newly issued opinions. Version history will be maintained at the Dataverse deposit.
 
-*Data download links will appear here upon release.*
+**[Access the data on Harvard Dataverse](https://doi.org/10.7910/DVN/XN2FVS)**
+
+The Dataverse deposit includes files in Stata (`.dta.gz`), CSV (`.csv.gz`), and Apache Parquet (`.tar.gz`) formats, along with Songer and IDB crosswalk files and the codebook.
 
 </div>

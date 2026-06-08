@@ -28,18 +28,20 @@ Kastellec, Jonathan P., and Eitan Sapiro-Gheiler. *forthcoming*. "Constructing a
 
 ## Dataset
 
-Kastellec, Jonathan P., and Eitan Sapiro-Gheiler. *forthcoming*. "Comprehensive Courts of Appeals Database (CCAD)." Harvard Dataverse. https://doi.org/[DOI].
+Sapiro-Gheiler, Eitan, and Jonathan P. Kastellec. 2026. "Comprehensive Courts of Appeals Database (CCAD)." Harvard Dataverse, V1. https://doi.org/10.7910/DVN/XN2FVS.
 
 ```bibtex
-@misc{kastellec_sapirogheiler_ccad,
-  author = {Kastellec, Jonathan P. and Sapiro-Gheiler, Eitan},
-  title = {Comprehensive Courts of Appeals Database (CCAD)},
-  year = {forthcoming},
+@misc{sapiro-gheiler_kastellec_ccad,
+  author    = {Sapiro-Gheiler, Eitan and Kastellec, Jonathan P.},
+  title     = {{Comprehensive Courts of Appeals Database (CCAD)}},
+  year      = {2026},
   publisher = {Harvard Dataverse},
-  doi = {[DOI]}
+  version   = {V1},
+  doi       = {10.7910/DVN/XN2FVS},
+  url       = {https://doi.org/10.7910/DVN/XN2FVS}
 }
 ```
 
-*Citation entries will be finalized upon publication.*
+*UNF:6:J/PnMf/WH5tZ310euIFH6Q==*
 
 </div>
