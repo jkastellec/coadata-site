@@ -20,6 +20,6 @@ The codebook documents the structure of the Comprehensive Courts of Appeals Data
 
 A detailed description of the construction methodology — including the large language model coding pipeline, validation against hand-coded benchmarks, and treatment of edge cases — is provided in the accompanying methods paper.
 
-**[Download Methods Paper (PDF)](#)**
+**[Download Methods Paper (PDF)](https://jkastellec.scholar.princeton.edu/document/171)**
 
 </div>
