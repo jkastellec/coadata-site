@@ -16,13 +16,13 @@ Researchers using the Comprehensive Courts of Appeals Database (CCAD) should cit
 
 ## Methods Paper
 
-Kastellec, Jonathan P., and Eitan Sapiro-Gheiler. *forthcoming*. "Constructing a Database for the Universe of U.S. Court of Appeals Cases: A Large Language Model Approach."
+Kastellec, Jonathan P., and Eitan Sapiro-Gheiler. 2026. "Appealing to Large-Language-Model-as-Judge: A Comprehensive Machine-Coded Database for the U.S. Courts of Appeals."
 
 ```bibtex
 @article{kastellec_sapirogheiler_ccad_methods,
   author = {Kastellec, Jonathan P. and Sapiro-Gheiler, Eitan},
-  title = {Constructing a Database for the Universe of U.S. Court of Appeals Cases: A Large Language Model Approach},
-  year = {forthcoming}
+  title = {Appealing to Large-Language-Model-as-Judge: A Comprehensive Machine-Coded Database for the U.S. Courts of Appeals},
+  year = {2026}
 }
 ```
 
