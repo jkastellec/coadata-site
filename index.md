@@ -10,9 +10,7 @@ title: Home
 
 <div class="page-body" markdown="1">
 
-The Comprehensive Courts of Appeals Database (CCAD) provides a machine-coded dataset on decisions issued by the U.S. Courts of Appeals. The database contains information on every published opinion issued by the circuit courts between 1892 and 2025.
-
-Case metadata — including panel composition and litigant information — are derived directly from structured court records, while substantive annotations such as issue area and ideological direction were produced using a large language model pipeline validated against established ground-truth datasets.
+The Comprehensive Courts of Appeals Database (CCAD) contains information on every published opinion issued by the Courts of Appeals between 1892 and 2025. It is updated yearly to include published opinions from the previous calendar year. Case metadata, including information about the opinions written for each case and the judges involved, are derived directly from administrative records. Substantive annotations such as issue area and ideological direction were produced using a large language model pipeline validated against established ground-truth datasets.
 
 Click [here](https://jkastellec.scholar.princeton.edu/document/171) to read a paper that describes the construction and validation of the dataset.
 
