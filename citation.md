@@ -42,6 +42,4 @@ Sapiro-Gheiler, Eitan, and Jonathan P. Kastellec. 2026. "Comprehensive Courts of
 }
 ```
 
-*UNF:6:J/PnMf/WH5tZ310euIFH6Q==*
-
 </div>
