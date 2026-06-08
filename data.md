@@ -14,9 +14,9 @@ The Comprehensive Courts of Appeals Database (CCAD) is available on [Harvard Dat
 
 ## Data Files
 
-- [Stata (.dta.gz)](https://dataverse.harvard.edu/api/access/datafile/13987844)
-- [CSV (.csv.gz)](https://dataverse.harvard.edu/api/access/datafile/13987843)
-- [Apache Parquet (.tar.gz)](https://dataverse.harvard.edu/api/access/datafile/13987074)
+- [Stata (.dta.gz)](https://dataverse.harvard.edu/api/access/datafile/13987844) — 816.6 MB
+- [CSV (.csv.gz)](https://dataverse.harvard.edu/api/access/datafile/13987843) — 738.1 MB
+- [Apache Parquet (.tar.gz)](https://dataverse.harvard.edu/api/access/datafile/13987074) — 838.9 MB
 
 ## Crosswalk Files
 
