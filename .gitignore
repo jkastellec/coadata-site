@@ -1,2 +1,12 @@
 .DS_Store
 **/.DS_Store
+
+# 🛑 Data releases are NOT hosted in this repo. GitHub hard-rejects any file
+# over 100 MB, and the four compressed CCAD artifacts are 627-950 MB each, so
+# committing them fails the push outright. They live on Dataverse (or another
+# host); data.md links out to them.
+compressed/
+*.csv.gz
+*.dta.gz
+*.RData.gz
+*.tar.gz

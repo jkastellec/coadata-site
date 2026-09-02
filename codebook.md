@@ -14,12 +14,12 @@ title: Codebook and Documentation
 
 The codebook documents the structure of the Comprehensive Courts of Appeals Database (CCAD), including variable definitions, value codings, source crosswalks to the Songer and Supreme Court Databases, and validation procedures.
 
-**[Download Codebook (PDF)](https://dataverse.harvard.edu/api/access/datafile/13987075)**
+**[Download Codebook (PDF)](/codebook_09-2026.pdf)**
 
 ## Methodology
 
 A detailed description of the construction methodology — including the large language model coding pipeline, validation against hand-coded benchmarks, and treatment of edge cases — is provided in the accompanying methods paper.
 
-**[Download Methods Paper (PDF)](https://jkastellec.scholar.princeton.edu/document/171)**
+**[Download Methods Paper (PDF)](/llm_appeals_09-2026.pdf)**
 
 </div>
